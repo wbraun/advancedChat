@@ -16,17 +16,18 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/satrapade/advanced-chat.git"
+    "url": "https://github.com/wbraun/advancedChat.git"
   },
-  "author": "Tamas Piros",
-  "url": "http://tamas.io",
-  "email": "me@tamas.io",
+  "author": "Bill Braun",
+  "url": "http://bbraun.io",
+  "email": "me@bbraun.io",
   "license": "free",
   "bugs": {
-    "url": "https://github.com/satrapade/advanced-chat/issues"
+    "url": "https://github.com/wbraun/advancedChat/issues"
   },
-  "homepage": "https://github.com/satrapade/advanced-chat"
+  "homepage": "https://github.com/wbraun/advancedChat"
 }
